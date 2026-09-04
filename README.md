@@ -1,16 +1,36 @@
-## Hi there 👋
+# Olá! Eu sou Maria Vitória 👋
 
-<!--
-**marialima01/marialima01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+Tenho interesse em tecnologia, desenvolvimento de sistemas e análise de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou desenvolvendo minhas habilidades por meio de cursos e projetos práticos, explorando Excel, Power BI, SQL, Python e Java.
+
+## 🛠️ Tecnologias e ferramentas
+
+📊 Excel  
+📈 Power BI  
+🗄️ SQL  
+🐍 Python  
+☕ Java  
+🔧 Git e GitHub
+
+## 📚 Atualmente estudando
+
+- Excel Avançado
+- SQL
+- Power BI
+- Python
+
+## 🚀 Projetos
+
+Em construção... 🚧
+
+Este perfil será utilizado para compartilhar meus projetos,
+estudos e evolução na área de tecnologia.
+
+## 🎯 Objetivo
+
+Desenvolver experiência prática em tecnologia por meio de projetos,
+aprimorando minhas habilidades e construindo meu portfólio profissional.
+
