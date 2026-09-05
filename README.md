@@ -30,6 +30,7 @@ Este perfil será utilizado para compartilhar meus projetos,
 estudos e evolução na área de tecnologia.
 
 ## 🎯 Objetivo
+pppp
 
 Desenvolver experiência prática em tecnologia por meio de projetos,
 aprimorando minhas habilidades e construindo meu portfólio profissional.
